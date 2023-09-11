@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "448fef3681c0506d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting & World Building.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ef638f7e8b8ca08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Influences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22f9ed8c28dcd3ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historical Events Shaping the World.md",
+                "file": "outline/Influences.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "outline/Themes and Plots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce3edb21dae91793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outline/Setting & World Building.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Destiny",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,12 +90,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "399a3438556396ed",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting & World Building.md",
+                "file": "outline/Setting & World Building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting & World Building.md",
+                "file": "outline/Setting & World Building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting & World Building.md"
+                "file": "outline/Setting & World Building.md"
               }
             }
           }
@@ -170,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +172,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "448fef3681c0506d",
+  "active": "ce3edb21dae91793",
   "lastOpenFiles": [
-    "Themes and Plots.md",
-    "Characters.md",
-    "Historical Events Shaping the World.md",
-    "Influences.md",
+    "outline/Characters & Narrators.md",
+    "outline/Themes and Plots.md",
+    "outline/Influences.md",
+    "outline/Historical Events Shaping the World.md",
+    "Untitled.md",
+    "Chapters",
+    "outline/Setting & World Building.md",
+    "outline",
     "Untitled.canvas",
-    "Setting & World Building.md",
     "Outline.md",
     "2023-09-09.md",
     "Setting.md"
